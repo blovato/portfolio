@@ -24,6 +24,28 @@
     },
     {
       "visible": true,
+      "category": "Component Libraries",
+      "title": "Alloy Table Component",
+      "description": "I designed and built the Alloy Table component from the ground up with performance, flexibility, and developer experience in mind. Throughout the process, I gathered developer feedback and conducted internal research to shape a composable API that supports custom cells, column grouping, sorting, selection, sticky headers, responsive layouts, and full accessibility. Now widely adopted across Autodesk, it’s the standard for complex data display in all construction products.",
+      "tags": ["Typescript", "React", "CSS", "Storybook", "Jest"],
+      "image": {
+        "src": "../../images/simple-table.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://alloy-react-storybook.acc-qa.autodesk.com/?path=/story/design-system-table--default"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/autodesk"
+        },
+        {
+          "type": "external",
+          "url": "https://alloy-react-storybook.acc-qa.autodesk.com/?path=/story/design-system-table--default"
+        }
+      ]
+    },
+    {
+      "visible": true,
       "category": "UI Implementation",
       "title": "Autodesk Takeoff's Carbon Accounting",
       "description": "I brought carbon insights directly into Autodesk Takeoff, making it easy for estimators to see the environmental impact of their materials as they work. I built the front-end interface that displays these calculations in real time, helping teams make more informed, sustainable choices.",
