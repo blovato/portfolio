@@ -13,8 +13,56 @@
       },
       "links": [
         {
+          "type": "github",
+          "url": "https://github.com/autodesk"
+        },
+        {
           "type": "external",
           "url": "https://alloy-react-storybook.acc-qa.autodesk.com"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "UI Implementation",
+      "title": "Autodesk Takeoff Carbon",
+      "description": "I brought carbon insights directly into Autodesk Takeoff, making it easy for estimators to see the environmental impact of their materials as they work. I built the front-end interface that displays these calculations in real time, helping teams make more informed, sustainable choices.",
+      "tags": ["TypeScript", "React", "MobX", "CSS", "Cypress", "Jest"],
+      "image": {
+        "src": "../../images/autodesk-takeoff.png",
+        "alt": "autodesk takeoff",
+        "linkTo": "https://www.linkedin.com/posts/deepak-maini-5697742b_estimator-quantitysurveyor-carbonfootprint-activity-7292225342671360002-QwyU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA-zdH8B9B_nvDwQf0n27rXwE0oGJIBSFhA"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/autodesk"
+        },
+        {
+          "type": "external",
+          "url": "https://www.linkedin.com/posts/deepak-maini-5697742b_estimator-quantitysurveyor-carbonfootprint-activity-7292225342671360002-QwyU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA-zdH8B9B_nvDwQf0n27rXwE0oGJIBSFhA"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "UI Implementation",
+      "title": "CoverHound Landing Page",
+      "description": "I rebuilt the CoverHound.com landing page in React, with a focus on performance and usability. I designed and implemented the responsive navigation menu from scratch, making it intuitive across devices and easy to update as the site evolved.",
+      "tags": ["React", "CSS"],
+      "image": {
+        "src": "../../images/coverhound-landing.png",
+        "alt": "coverhound landing",
+        "linkTo": "https://coverhound.com"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/coverhound"
+        },
+        {
+          "type": "external",
+          "url": "https://coverhound.com"
         }
       ]
     },
