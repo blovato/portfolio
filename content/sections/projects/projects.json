@@ -25,7 +25,7 @@
     {
       "visible": true,
       "category": "UI Implementation",
-      "title": "Autodesk Takeoff Carbon",
+      "title": "Autodesk Takeoff's Carbon Accounting",
       "description": "I brought carbon insights directly into Autodesk Takeoff, making it easy for estimators to see the environmental impact of their materials as they work. I built the front-end interface that displays these calculations in real time, helping teams make more informed, sustainable choices.",
       "tags": ["TypeScript", "React", "MobX", "CSS", "Cypress", "Jest"],
       "image": {
