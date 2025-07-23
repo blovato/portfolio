@@ -2,46 +2,47 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Component Libraries",
+      "title": "Autodesk's Alloy Design System",
+      "description": "I led development on Autodesk’s Alloy React component library, building a robust, accessible, and type-safe design system used by more than 30+ feature teams. I created and maintained over 60 core components in React and TypeScript, improved Storybook documentation, and ensured design accuracy and accessibility throughout. My work established a consistent UI foundation for teams across the company that balanced full customization with ease of use.",
+      "tags": ["Typescript", "React", "CSS", "Storybook", "Jest"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/alloy-react-colors.png",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://alloy-react-storybook.acc-qa.autodesk.com"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://alloy-react-storybook.acc-qa.autodesk.com"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "UI Implementation",
+      "title": "Pebble Calculator",
+      "description": "A tiny, whimsical calculator built in Godot with pixel art charm. Built from scratch — code, art, and animations — as a personal project to explore Godot and dip into pixel art creation.",
+      "tags": ["GDScript", "HTML"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/pebble-square.png",
+        "alt": "pebble calculator",
+        "linkTo": "https://blovato.github.io/PebbleCalculator"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/blovato/PebbleCalculator"
+        },
+        {
+          "type": "external",
+          "url": "https://blovato.github.io/PebbleCalculator"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }

@@ -1,13 +1,13 @@
 {
   "name": "Brenten Lovato - Front-End Developer",
   "email": "brentengust@gmail.com",
-  "description": "I build refined front-end interfaces in React + TypeScript for mission-driven teams — with a focus on flow, precision, and care.",
+  "description": "If something here sparked your interest—whether it's a project, idea, or just a vibe—feel free to reach out. I’m always open to new opportunities, collaborations, or just a good conversation.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "../../images/venn.png",
+    "alt": "venn"
   },
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
   }
 }
