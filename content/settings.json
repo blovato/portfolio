@@ -1,34 +1,32 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "siteUrl": "https://brentenlovato.com",
+    "title": "Brenten Lovato - Front-End Developer",
+    "titleTemplate": "%s · Portfolio",
+    "description": "I build refined front-end interfaces in React + TypeScript for mission-driven teams — with a focus on flow, precision, and care.",
+    "author": "Brenten Lovato",
     "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "bio": "I build refined front-end interfaces in React + TypeScript for mission-driven teams — with a focus on flow, precision, and care.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "medium": "",
+      "github": "https://github.com/blovato",
+      "linkedin": "https://www.linkedin.com/in/brentenlovato",
+      "mail": "mailto:brentengust@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Brenten Lovato" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "/Brenten Lovato - Resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
