@@ -1,14 +1,12 @@
 ---
 imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageAlt: "Front-End Developer"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I'm a front-end developer with over 9 years of experience building thoughtful, high-quality interfaces in React and TypeScript. I specialize in bringing designs to life through robust component libraries, interactive dashboards, and seamless UI systems.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I gravitate toward projects that contribute to something meaningful in the world. Whether it's building tools for social good or helping purpose-driven teams move their mission forward, I enjoy working with people who care about what they're creating.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+I live on a small farm in the Santa Cruz mountains with my sister and her family, where I balance my work with surfing, yoga, and a dedicated meditation practice. I'm also training as a somatic coach — a path that deepens my commitment to presence, listening, and authentic collaboration.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+I thrive in fluid, interdependent teams where design, engineering, and product come together around a shared vision. If you're looking for a front-end partner who brings depth, thoughtfulness, and reliability to your project, I'd love to connect.
