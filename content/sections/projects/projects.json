@@ -417,6 +417,83 @@
     {
       "visible": true,
       "category": "UI Implementation",
+      "title": "CoverHound Commercial Insurance Quote Flow",
+      "description": "Rebuilt CoverHound’s main insurance quote process into a dynamic, data-driven form that adapted in real time to user input, product type, and underwriting rules. Created reusable form components, centralized validation, and a configuration system that let non-engineering teams update flows without code. The result was a faster, more intuitive, and scalable quoting experience used across multiple insurance products.",
+      "tags": [
+        "Javascript",
+        "React",
+        "CSS"
+      ],
+      "image": {
+        "src": "../../images/coverhound-quote-flow.png",
+        "alt": "CoverHound Landing Page",
+        "linkTo": "/projects/coverhound-quote-flow"
+      },
+      "links": [
+        {
+          "type": "CoverHound Quote Flow",
+          "url": "https://insurance.coverhound.com/compare/get-started"
+        }
+      ],
+      "detailedData": {
+        "projectDetails": {
+          "title": "Project Details",
+          "description": "I led the rebuild of CoverHound’s main insurance quote flow into a dynamic, data-driven form system. The new architecture adapted questions in real time based on user input, product type, and underwriting rules, creating a faster and more personalized quoting experience that scaled across multiple insurance products.",
+          "features": [
+            {
+              "title": "Adaptive Question Flow",
+              "description": "Form logic updated dynamically based on previous answers and insurance type"
+            },
+            {
+              "title": "Reusable Form Components",
+              "description": "Built a library of configurable form fields for consistent UI and validation"
+            },
+            {
+              "title": "Centralized Validation",
+              "description": "Implemented shared validation rules to ensure accuracy and compliance"
+            }
+          ]
+        },
+        "challenges": {
+          "description": "The main challenge was designing a form system that could adapt to multiple insurance products and changing compliance requirements without requiring frequent engineering involvement.",
+          "challenges": [
+            {
+              "title": "Complex Conditional Logic",
+              "description": "Created a rules system to handle branching questions for multiple products"
+            },
+            {
+              "title": "Scalability",
+              "description": "Designed the architecture to support future insurance types and requirements"
+            }
+          ]
+        },
+        "results": {
+          "description": "The new dynamic form significantly improved the quoting experience:",
+          "results": [
+            {
+              "title": "Personalized user journeys",
+              "description": "guided customers through tailored question sets based on their needs"
+            },
+            {
+              "title": "Faster quoting process",
+              "description": "reduced unnecessary questions and streamlined navigation"
+            },
+            {
+              "title": "Improved maintainability",
+              "description": "with centralized logic and component reuse, which reduced ongoing development overhead"
+            },
+            {
+              "title": "Cross-product scalability",
+              "description": "easily applied the flow to new insurance lines with minimal changes"
+            }
+          ],
+          "conclusion": "The rebuilt dynamic form delivered a more intuitive and efficient quoting experience, improved maintainability, and gave teams the flexibility to adapt quickly to business needs."
+        }
+      }
+    },
+    {
+      "visible": true,
+      "category": "UI Implementation",
       "title": "CoverHound Landing Page",
       "description": "I rebuilt the CoverHound.com landing page in React, with a focus on performance and usability. I designed and implemented the responsive navigation menu from scratch, making it intuitive across devices and easy to update as the site evolved.",
       "tags": [
