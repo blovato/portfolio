@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://brentenlovato.com/sitemap-index.xml
+Host: https://brentenlovato.com
