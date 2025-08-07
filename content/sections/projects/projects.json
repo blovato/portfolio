@@ -29,7 +29,7 @@
       "description": "I designed and built the Alloy Table component from the ground up with performance, flexibility, and developer experience in mind. Throughout the process, I gathered developer feedback and conducted internal research to shape a composable API that supports custom cells, column grouping, sorting, selection, sticky headers, responsive layouts, and full accessibility. Now widely adopted across Autodesk, it’s the standard for complex data display in all construction products.",
       "tags": ["Typescript", "React", "CSS", "Storybook", "Jest"],
       "image": {
-        "src": "../../images/simple-table.png",
+        "src": "../../images/simple-striped-table.png",
         "alt": "Quick Setup",
         "linkTo": "https://alloy-react-storybook.acc-qa.autodesk.com/?path=/story/design-system-table--default"
       },
@@ -63,6 +63,28 @@
         {
           "type": "external",
           "url": "https://www.linkedin.com/posts/deepak-maini-5697742b_estimator-quantitysurveyor-carbonfootprint-activity-7292225342671360002-QwyU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA-zdH8B9B_nvDwQf0n27rXwE0oGJIBSFhA"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "UI Implementation",
+      "title": "Autodesk Model Coordination's Advanced Filtering",
+      "description": "I developed the advanced filtering system in Autodesk Model Coordination, allowing users to isolate model elements by properties like discipline and category. I integrated filters with the Model Tree and implemented saved views to boost workflow efficiency and consistency. By combining filters with object coloring and an interactive table, I enhanced users’ ability to focus on relevant data during clash detection and reviews. My work streamlined complex model navigation and improved collaboration across project revisions.",
+      "tags": ["TypeScript", "React", "CSS", "Redux", "Cypress", "Jest"],
+      "image": {
+        "src": "../../images/adv-model-filter.png",
+        "alt": "autodesk model coordination advanced filtering",
+        "linkTo": "https://help.autodesk.com/view/COORD/ENU/?guid=Model_Coord_Object_Filters"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/autodesk"
+        },
+        {
+          "type": "external",
+          "url": "https://help.autodesk.com/view/COORD/ENU/?guid=Model_Coord_Object_Filters"
         }
       ]
     },
