@@ -9,7 +9,7 @@ module.exports = {
           siteName: "Brenten Lovato", // Used in manifest.json
           shortName: "Portfolio", // Used in manifest.json
           startUrl: "/", // Used in manifest.json
-          backgroundColor: "#000000", // Used in manifest.json
+          backgroundColor: "#ffffff", // Used in manifest.json
           themeColor: "#000000", // Used in manifest.json
           display: "minimal-ui", // Used in manifest.json
         },
