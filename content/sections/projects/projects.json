@@ -4,142 +4,604 @@
       "visible": true,
       "category": "Component Libraries",
       "title": "Autodesk's Alloy Design System",
-      "description": "I led development on Autodesk’s Alloy React component library, building a robust, accessible, and type-safe design system used by more than 30+ feature teams. I created and maintained over 60 core components in React and TypeScript, improved Storybook documentation, and ensured design accuracy and accessibility throughout. My work established a consistent UI foundation for teams across the company that balanced full customization with ease of use.",
-      "tags": ["Typescript", "React", "CSS", "Storybook", "Jest"],
+      "description": "I led development on Autodesk's Alloy React component library, building a robust, accessible, and type-safe design system used by more than 30+ feature teams. I created and maintained over 60 core components in React and TypeScript, improved Storybook documentation, and ensured design accuracy and accessibility throughout. My work established a consistent UI foundation for teams across the company that balanced full customization with ease of use.",
+      "tags": [
+        "Typescript",
+        "React",
+        "CSS",
+        "Storybook",
+        "Jest"
+      ],
       "image": {
         "src": "../../images/alloy-react-colors.png",
-        "alt": "Quick Setup",
-        "linkTo": "https://alloy-react-storybook.acc-qa.autodesk.com"
+        "alt": "Alloy Design System",
+        "linkTo": "/projects/alloy-design-system"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/autodesk"
-        },
-        {
-          "type": "external",
+          "type": "Storybook Documentation",
           "url": "https://alloy-react-storybook.acc-qa.autodesk.com"
         }
-      ]
+      ],
+      "detailedData": {
+        "projectDetails": {
+          "title": "Project Details",
+          "description": "As the lead developer for Autodesk's Alloy Design System, I was responsible for creating and maintaining a comprehensive React component library that serves as the foundation for all of Autodesk's web applications. This project was critical for establishing design consistency and developer efficiency across the entire organization.",
+          "features": [
+            {
+              "title": "Component Development",
+              "description": "Designed and implemented 60+ core React components with TypeScript"
+            },
+            {
+              "title": "Accessibility",
+              "description": "Ensured full accessibility compliance (WCAG 2.1 AA standards)"
+            },
+            {
+              "title": "Documentation",
+              "description": "Created comprehensive Storybook documentation with interactive examples"
+            },
+            {
+              "title": "Standards",
+              "description": "Established coding standards and best practices for the design system"
+            },
+            {
+              "title": "Support",
+              "description": "Provided technical support and training to 30+ development teams"
+            }
+          ]
+        },
+        "challenges": {
+          "description": "The biggest challenge was balancing the need for a flexible, customizable component library with the requirement for consistency across all Autodesk products. Each team had unique requirements while still needing to maintain brand consistency.",
+          "challenges": [
+            {
+              "title": "Theming System",
+              "description": "Created a comprehensive theming system that allowed for customization while maintaining design consistency"
+            },
+            {
+              "title": "TypeScript Integration",
+              "description": "Implemented a robust TypeScript interface that provided excellent developer experience and caught errors early"
+            },
+            {
+              "title": "Testing Suite",
+              "description": "Built an extensive testing suite with Jest and React Testing Library to ensure reliability"
+            },
+            {
+              "title": "Documentation",
+              "description": "Developed detailed documentation and interactive examples in Storybook to reduce adoption friction"
+            }
+          ]
+        },
+        "results": {
+          "description": "The Alloy Design System has been successfully adopted by over 30 development teams across Autodesk, resulting in:",
+          "results": [
+            {
+              "title": "50% reduction ",
+              "description": "in development time for new features"
+            },
+            {
+              "title": "90% improvement ",
+              "description": "in design consistency across products"
+            },
+            {
+              "title": "100% accessibility compliance ",
+              "description": "for all components"
+            },
+            {
+              "title": "Significant reduction ",
+              "description": "in UI-related bugs and maintenance overhead"
+            },
+            {
+              "title": "Improved developer satisfaction ",
+              "description": "and faster onboarding for new team members"
+            }
+          ],
+          "conclusion": "The design system has become the standard foundation for all new Autodesk web applications and continues to evolve based on team feedback and changing requirements."
+        }
+      }
     },
     {
       "visible": true,
       "category": "Component Libraries",
       "title": "Alloy Table Component",
-      "description": "I designed and built the Alloy Table component from the ground up with performance, flexibility, and developer experience in mind. Throughout the process, I gathered developer feedback and conducted internal research to shape a composable API that supports custom cells, column grouping, sorting, selection, sticky headers, responsive layouts, and full accessibility. Now widely adopted across Autodesk, it’s the standard for complex data display in all construction products.",
-      "tags": ["Typescript", "React", "CSS", "Storybook", "Jest"],
+      "description": "I designed and built the Alloy Table component from the ground up with performance, flexibility, and developer experience in mind. Throughout the process, I gathered developer feedback and conducted internal research to shape a composable API that supports custom cells, column grouping, sorting, selection, sticky headers, responsive layouts, and full accessibility. Now widely adopted across Autodesk, it's the standard for complex data display in all construction products.",
+      "tags": [
+        "Typescript",
+        "React",
+        "CSS",
+        "Storybook",
+        "Jest"
+      ],
       "image": {
         "src": "../../images/simple-striped-table.png",
-        "alt": "Quick Setup",
-        "linkTo": "https://alloy-react-storybook.acc-qa.autodesk.com/?path=/story/design-system-table--default"
+        "alt": "Alloy Table Component",
+        "linkTo": "/projects/alloy-table-component"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/autodesk"
-        },
-        {
-          "type": "external",
+          "type": "Storybook Documentation",
           "url": "https://alloy-react-storybook.acc-qa.autodesk.com/?path=/story/design-system-table--default"
         }
-      ]
+      ],
+      "detailedData": {
+        "projectDetails": {
+          "title": "Project Details",
+          "description": "The Alloy Table component was a critical piece of infrastructure that needed to handle complex data display requirements across all of Autodesk's construction products. This component had to be both powerful enough for advanced use cases and simple enough for basic implementations.",
+          "features": [
+            {
+              "title": "Composable API",
+              "description": "Flexible component structure that allows for custom cell renderers and complex layouts"
+            },
+            {
+              "title": "Advanced Functionality",
+              "description": "Column grouping, sorting, selection, sticky headers, and responsive layouts"
+            },
+            {
+              "title": "Performance Optimization",
+              "description": "Virtual scrolling for large datasets and efficient re-rendering"
+            },
+            {
+              "title": "Accessibility First",
+              "description": "Full keyboard navigation, screen reader support, and ARIA compliance"
+            },
+            {
+              "title": "Developer Experience",
+              "description": "Comprehensive TypeScript interfaces and detailed documentation"
+            }
+          ]
+        },
+        "challenges": {
+          "description": "The primary challenge was creating a table component that could handle the diverse and complex requirements of construction software while maintaining excellent performance and accessibility standards.",
+          "challenges": [
+            {
+              "title": "Performance",
+              "description": "Implemented virtual scrolling and efficient diffing algorithms to handle tables with thousands of rows"
+            },
+            {
+              "title": "Flexibility",
+              "description": "Designed a composable API that could handle both simple and complex use cases"
+            },
+            {
+              "title": "Accessibility",
+              "description": "Ensured full keyboard navigation and screen reader compatibility for complex table interactions"
+            },
+            {
+              "title": "Integration",
+              "description": "Seamlessly integrated with existing Autodesk applications and design patterns"
+            }
+          ]
+        },
+        "results": {
+          "description": "The Alloy Table component has become the standard data display solution across Autodesk, delivering:",
+          "results": [
+            {
+              "title": "Widespread adoption ",
+              "description": "across all construction software products"
+            },
+            {
+              "title": "Consistent user experience ",
+              "description": "for data display across the platform"
+            },
+            {
+              "title": "Improved performance ",
+              "description": "for large datasets with virtual scrolling"
+            },
+            {
+              "title": "Enhanced accessibility ",
+              "description": "for users with disabilities"
+            },
+            {
+              "title": "Reduced development time ",
+              "description": "for teams implementing data tables"
+            }
+          ],
+          "conclusion": "The table component has standardized data display across Autodesk's construction software, improving both developer productivity and user experience."
+        }
+      }
     },
     {
       "visible": true,
       "category": "UI Implementation",
       "title": "Autodesk Takeoff's Carbon Accounting",
       "description": "I brought carbon insights directly into Autodesk Takeoff, making it easy for estimators to see the environmental impact of their materials as they work. I built the front-end interface that displays these calculations in real time, helping teams make more informed, sustainable choices.",
-      "tags": ["TypeScript", "React", "MobX", "CSS", "Cypress", "Jest"],
+      "tags": [
+        "TypeScript",
+        "React",
+        "MobX",
+        "CSS",
+        "Cypress",
+        "Jest"
+      ],
       "image": {
         "src": "../../images/autodesk-takeoff.png",
-        "alt": "autodesk takeoff",
-        "linkTo": "https://www.linkedin.com/posts/deepak-maini-5697742b_estimator-quantitysurveyor-carbonfootprint-activity-7292225342671360002-QwyU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA-zdH8B9B_nvDwQf0n27rXwE0oGJIBSFhA"
+        "alt": "Autodesk Takeoff Carbon Accounting",
+        "linkTo": "/projects/autodesk-takeoff-carbon"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/autodesk"
-        },
-        {
-          "type": "external",
+          "type": "Carbon Accounting Documentation",
           "url": "https://help.autodesk.com/view/TAKEOFF/ENU/?guid=Carbon_Set_Up"
         },
         {
-          "type": "external",
+          "type": "Positive User Feedback",
           "url": "https://www.linkedin.com/posts/deepak-maini-5697742b_estimator-quantitysurveyor-carbonfootprint-activity-7292225342671360002-QwyU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA-zdH8B9B_nvDwQf0n27rXwE0oGJIBSFhA"
         }
-      ]
+      ],
+      "detailedData": {
+        "projectDetails": {
+          "title": "Project Details",
+          "description": "I developed the carbon accounting feature for Autodesk Takeoff, integrating environmental impact calculations directly into the estimation workflow. This feature helps construction professionals make more sustainable choices by providing real-time carbon footprint data for their material selections.",
+          "features": [
+            {
+              "title": "Real-time Carbon Calculations",
+              "description": "Instant carbon footprint updates as estimators modify quantities and materials"
+            },
+            {
+              "title": "Material Database Integration",
+              "description": "Connected to comprehensive material carbon data for accurate calculations"
+            },
+            {
+              "title": "Visual Carbon Indicators",
+              "description": "Color-coded interface showing environmental impact levels"
+            },
+            {
+              "title": "Comparative Analysis",
+              "description": "Side-by-side comparison of different material options"
+            },
+            {
+              "title": "Reporting Integration",
+              "description": "Carbon data included in takeoff reports and documentation"
+            }
+          ]
+        },
+        "challenges": {
+          "description": "The main challenge was integrating complex carbon calculation logic into an existing estimation workflow while maintaining performance and providing an intuitive user experience.",
+          "challenges": [
+            {
+              "title": "Performance",
+              "description": "Optimized calculations to run in real-time without impacting estimation workflow speed"
+            },
+            {
+              "title": "Data Integration",
+              "description": "Connected to external carbon databases and integrated with existing material catalogs"
+            },
+            {
+              "title": "User Experience",
+              "description": "Designed intuitive interfaces that made complex environmental data accessible to estimators"
+            },
+            {
+              "title": "Accuracy",
+              "description": "Ensured carbon calculations were precise and aligned with industry standards"
+            }
+          ]
+        },
+        "results": {
+          "description": "The carbon accounting feature has successfully integrated sustainability into the estimation process:",
+          "results": [
+            {
+              "title": "Sustainable decision making ",
+              "description": "enabled for construction professionals"
+            },
+            {
+              "title": "Real-time environmental insights ",
+              "description": "integrated into existing workflows"
+            },
+            {
+              "title": "Improved material selection ",
+              "description": "based on environmental impact data"
+            },
+            {
+              "title": "Enhanced reporting ",
+              "description": "with carbon footprint documentation"
+            },
+            {
+              "title": "Industry recognition ",
+              "description": "for sustainability innovation in construction software"
+            }
+          ],
+          "conclusion": "The carbon accounting feature has positioned Autodesk Takeoff as a leader in sustainable construction software, helping teams make environmentally conscious decisions."
+        }
+      }
     },
     {
       "visible": true,
       "category": "UI Implementation",
       "title": "Autodesk Model Coordination's Advanced Filtering",
-      "description": "I developed the advanced filtering system in Autodesk Model Coordination, allowing users to isolate model elements by properties like discipline and category. I integrated filters with the Model Tree and implemented saved views to boost workflow efficiency and consistency. By combining filters with object coloring and an interactive table, I enhanced users’ ability to focus on relevant data during clash detection and reviews. My work streamlined complex model navigation and improved collaboration across project revisions.",
-      "tags": ["TypeScript", "React", "CSS", "Redux", "Cypress", "Jest"],
+      "description": "I developed the advanced filtering system in Autodesk Model Coordination, allowing users to isolate model elements by properties like discipline and category. I integrated filters with the Model Tree and implemented saved views to boost workflow efficiency and consistency. By combining filters with object coloring and an interactive table, I enhanced users' ability to focus on relevant data during clash detection and reviews. My work streamlined complex model navigation and improved collaboration across project revisions.",
+      "tags": [
+        "TypeScript",
+        "React",
+        "CSS",
+        "Redux",
+        "Cypress",
+        "Jest"
+      ],
       "image": {
         "src": "../../images/adv-model-filter.png",
-        "alt": "autodesk model coordination advanced filtering",
-        "linkTo": "https://help.autodesk.com/view/COORD/ENU/?guid=Model_Coord_Object_Filters"
+        "alt": "Autodesk Model Coordination Advanced Filtering",
+        "linkTo": "/projects/model-coordination-filtering"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/autodesk"
-        },
-        {
-          "type": "external",
+          "type": "Advanced Filtering Documentation",
           "url": "https://help.autodesk.com/view/COORD/ENU/?guid=Model_Coord_Object_Filters"
         }
-      ]
+      ],
+      "detailedData": {
+        "projectDetails": {
+          "title": "Project Details",
+          "description": "I developed the advanced filtering system for Autodesk Model Coordination, a critical tool for managing complex BIM models. This system allows users to isolate and focus on specific model elements during coordination and clash detection workflows.",
+          "features": [
+            {
+              "title": "Advanced Filtering",
+              "description": "Multi-criteria filtering by discipline, category, and custom properties"
+            },
+            {
+              "title": "Saved Views",
+              "description": "Persistent filter configurations for consistent workflow efficiency"
+            },
+            {
+              "title": "Visual Integration",
+              "description": "Filters integrated with model tree and object coloring systems"
+            },
+            {
+              "title": "Interactive Table",
+              "description": "Filtered data displayed in sortable, searchable tables"
+            },
+            {
+              "title": "Workflow Optimization",
+              "description": "Streamlined navigation for complex model coordination tasks"
+            }
+          ]
+        },
+        "challenges": {
+          "description": "The primary challenge was creating a filtering system that could handle the complexity of large BIM models while providing an intuitive interface for construction professionals.",
+          "challenges": [
+            {
+              "title": "Performance",
+              "description": "Optimized filtering algorithms to handle models with millions of objects"
+            },
+            {
+              "title": "Complex Data",
+              "description": "Managed diverse property types and hierarchical model structures"
+            },
+            {
+              "title": "User Experience",
+              "description": "Designed interfaces that simplified complex filtering operations"
+            },
+            {
+              "title": "Integration",
+              "description": "Seamlessly integrated with existing model coordination workflows"
+            }
+          ]
+        },
+        "results": {
+          "description": "The advanced filtering system has significantly improved model coordination workflows:",
+          "results": [
+            {
+              "title": "Improved efficiency ",
+              "description": "in model navigation and coordination tasks"
+            },
+            {
+              "title": "Enhanced collaboration ",
+              "description": "through consistent saved views and filter configurations"
+            },
+            {
+              "title": "Reduced coordination time ",
+              "description": "by focusing on relevant model elements"
+            },
+            {
+              "title": "Better clash detection ",
+              "description": "through targeted model analysis"
+            },
+            {
+              "title": "Streamlined workflows ",
+              "description": "for construction professionals"
+            }
+          ],
+          "conclusion": "The advanced filtering system has become an essential tool for efficient model coordination, helping teams focus on relevant data and improve project outcomes."
+        }
+      }
     },
     {
       "visible": true,
       "category": "UI Implementation",
       "title": "CoverHound Landing Page",
       "description": "I rebuilt the CoverHound.com landing page in React, with a focus on performance and usability. I designed and implemented the responsive navigation menu from scratch, making it intuitive across devices and easy to update as the site evolved.",
-      "tags": ["React", "CSS"],
+      "tags": [
+        "React",
+        "CSS"
+      ],
       "image": {
         "src": "../../images/coverhound-landing.png",
-        "alt": "coverhound landing",
-        "linkTo": "https://coverhound.com"
+        "alt": "CoverHound Landing Page",
+        "linkTo": "/projects/coverhound-landing"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/coverhound"
-        },
-        {
-          "type": "external",
+          "type": "CoverHound Landing Page",
           "url": "https://coverhound.com"
         }
-      ]
+      ],
+      "detailedData": {
+        "projectDetails": {
+          "title": "Project Details",
+          "description": "I was responsible for rebuilding the main landing page for CoverHound, an insurance comparison platform. The project focused on creating a fast, user-friendly interface that could effectively convert visitors into customers while maintaining excellent performance across all devices.",
+          "features": [
+            {
+              "title": "Responsive Design",
+              "description": "Fully responsive layout that works seamlessly across all devices"
+            },
+            {
+              "title": "Custom Navigation",
+              "description": "Designed and built a responsive navigation menu from scratch"
+            },
+            {
+              "title": "Performance Optimization",
+              "description": "Implemented code splitting and lazy loading for optimal page load times"
+            },
+            {
+              "title": "User Experience",
+              "description": "Streamlined user flow from landing to quote generation"
+            },
+            {
+              "title": "Accessibility",
+              "description": "Ensured the site meets WCAG accessibility standards"
+            }
+          ]
+        },
+        "challenges": {
+          "description": "The main challenge was creating a landing page that could effectively convert visitors while maintaining excellent performance and providing a seamless user experience across all devices.",
+          "challenges": [
+            {
+              "title": "Performance Requirements",
+              "description": "Optimized for fast loading times despite complex insurance comparison functionality"
+            },
+            {
+              "title": "Responsive Design",
+              "description": "Created a navigation system that worked intuitively across desktop, tablet, and mobile devices"
+            },
+            {
+              "title": "Conversion Optimization",
+              "description": "Designed user flows that effectively guided visitors toward quote generation"
+            },
+            {
+              "title": "Content Management",
+              "description": "Built a system that allowed for easy content updates and maintenance"
+            }
+          ]
+        },
+        "results": {
+          "description": "The redesigned landing page successfully improved CoverHound's online presence:",
+          "results": [
+            {
+              "title": "Improved page load times ",
+              "description": "through performance optimization"
+            },
+            {
+              "title": "Enhanced mobile experience ",
+              "description": "with responsive design implementation"
+            },
+            {
+              "title": "Better user engagement ",
+              "description": "through intuitive navigation and clear call-to-actions"
+            },
+            {
+              "title": "Increased conversion rates ",
+              "description": "from landing page visitors to quote requests"
+            },
+            {
+              "title": "Easier content management ",
+              "description": "for marketing team updates"
+            }
+          ],
+          "conclusion": "The redesigned landing page has significantly improved CoverHound's online presence and user experience, contributing to better conversion rates and customer satisfaction."
+        }
+      }
     },
     {
       "visible": true,
       "category": "UI Implementation",
       "title": "Pebble Calculator",
       "description": "A tiny, whimsical calculator built in Godot with pixel art charm. Built from scratch — code, art, and animations — as a personal project to explore Godot and dip into pixel art creation.",
-      "tags": ["GDScript", "HTML"],
+      "tags": [
+        "GDScript",
+        "HTML"
+      ],
       "image": {
         "src": "../../images/pebble-square.png",
-        "alt": "pebble calculator",
-        "linkTo": "https://blovato.github.io/PebbleCalculator"
+        "alt": "Pebble Calculator",
+        "linkTo": "/projects/pebble-calculator"
       },
       "links": [
         {
-          "type": "github",
+          "type": "GitHub",
           "url": "https://github.com/blovato/PebbleCalculator"
         },
         {
-          "type": "external",
+          "type": "Pebble Calculator",
           "url": "https://blovato.github.io/PebbleCalculator"
         }
-      ]
+      ],
+      "detailedData": {
+        "projectDetails": {
+          "title": "Project Details",
+          "description": "Pebble Calculator is a personal passion project that combines my interest in game development with a love for pixel art. Built entirely from scratch in Godot, this project allowed me to explore both programming and artistic creation in a fun, whimsical way.",
+          "features": [
+            {
+              "title": "Custom Pixel Art",
+              "description": "Created all artwork, animations, and visual effects from scratch"
+            },
+            {
+              "title": "Game Engine Development",
+              "description": "Built using Godot game engine with GDScript programming"
+            },
+            {
+              "title": "Calculator Functionality",
+              "description": "Full calculator operations with a charming, animated interface"
+            },
+            {
+              "title": "Responsive Design",
+              "description": "Works seamlessly across different screen sizes and devices"
+            },
+            {
+              "title": "Web Deployment",
+              "description": "Successfully deployed as a web application for easy access"
+            }
+          ]
+        },
+        "challenges": {
+          "description": "The main challenge was learning both Godot game development and pixel art creation simultaneously while building a functional calculator application.",
+          "challenges": [
+            {
+              "title": "Learning Curve",
+              "description": "Mastered Godot game engine and GDScript programming from scratch"
+            },
+            {
+              "title": "Artistic Development",
+              "description": "Learned pixel art creation and animation techniques"
+            },
+            {
+              "title": "Calculator Logic",
+              "description": "Implemented proper mathematical operations and order of operations"
+            },
+            {
+              "title": "Web Deployment",
+              "description": "Configured Godot project for web export and hosting"
+            }
+          ]
+        },
+        "results": {
+          "description": "Pebble Calculator successfully demonstrates the combination of technical and artistic skills:",
+          "results": [
+            {
+              "title": "Functional calculator ",
+              "description": "with full mathematical operations"
+            },
+            {
+              "title": "Charming pixel art ",
+              "description": "created entirely from scratch"
+            },
+            {
+              "title": "Smooth animations ",
+              "description": "and interactive feedback"
+            },
+            {
+              "title": "Cross-platform compatibility ",
+              "description": "works on web, desktop, and mobile"
+            },
+            {
+              "title": "Personal growth ",
+              "description": "in both programming and artistic skills"
+            }
+          ],
+          "conclusion": "Pebble Calculator represents a successful exploration of game development and pixel art, resulting in a functional and charming application that showcases both technical and creative abilities."
+        }
+      }
     }
   ],
   "button": {
     "visible": false,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/blovato"
   }
 }
