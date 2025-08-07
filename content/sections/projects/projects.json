@@ -75,24 +75,36 @@
           "description": "The Alloy Design System has been successfully adopted by over 30 development teams across Autodesk, resulting in:",
           "results": [
             {
-              "title": "50% reduction ",
-              "description": "in development time for new features"
+              "title": "Delivered and Maintained",
+              "description": "60+ reusable, production-ready components that formed a consistent UI foundation across all products."
             },
             {
-              "title": "90% improvement ",
-              "description": "in design consistency across products"
+              "title": "Supplied a shared library",
+              "description": "to 30+ product teams, ensuring a cohesive user experience across diverse applications and platforms."
             },
             {
-              "title": "100% accessibility compliance ",
-              "description": "for all components"
+              "title": "Centralized design and interaction",
+              "description": "patterns in one place, reducing ambiguity and keeping implementation aligned with the design system."
             },
             {
-              "title": "Significant reduction ",
-              "description": "in UI-related bugs and maintenance overhead"
+              "title": "Established contribution guidelines",
+              "description": "Established contribution guidelines along with code reviews and testing standards to ensure every component met high reliability and quality expectations."
             },
             {
-              "title": "Improved developer satisfaction ",
-              "description": "and faster onboarding for new team members"
+              "title": "Designed components",
+              "description": "Designed components with clear, predictable APIs and thorough documentation, making adoption seamless for engineers of all skill levels."
+            },
+            {
+              "title": "Enabled rapid company-wide design updates",
+              "description": "by centralizing themes and styles within the shared component library."
+            },
+            {
+              "title": "Integrated feedback loops",
+              "description": "between designers and developers, streamlining iteration and ensuring components met real-world needs."
+            },
+            {
+              "title": "Built inclusivity into",
+              "description": "the foundation of the library, ensuring all components were accessible from the start rather than retrofitted later."
             }
           ],
           "conclusion": "The design system has become the standard foundation for all new Autodesk web applications and continues to evolve based on team feedback and changing requirements."
@@ -442,10 +454,6 @@
             {
               "title": "User Experience",
               "description": "Streamlined user flow from landing to quote generation"
-            },
-            {
-              "title": "Accessibility",
-              "description": "Ensured the site meets WCAG accessibility standards"
             }
           ]
         },
@@ -463,10 +471,6 @@
             {
               "title": "Conversion Optimization",
               "description": "Designed user flows that effectively guided visitors toward quote generation"
-            },
-            {
-              "title": "Content Management",
-              "description": "Built a system that allowed for easy content updates and maintenance"
             }
           ]
         },
@@ -554,7 +558,7 @@
           "challenges": [
             {
               "title": "Learning Curve",
-              "description": "Mastered Godot game engine and GDScript programming from scratch"
+              "description": "Ramped up on Godot game engine and GDScript programming; 0 -> 1"
             },
             {
               "title": "Artistic Development",
@@ -565,8 +569,8 @@
               "description": "Implemented proper mathematical operations and order of operations"
             },
             {
-              "title": "Web Deployment",
-              "description": "Configured Godot project for web export and hosting"
+              "title": "CI/CD Pipeline",
+              "description": "Configured Godot project for CI/CD pipeline and hosting on github pages"
             }
           ]
         },
@@ -587,7 +591,7 @@
             },
             {
               "title": "Cross-platform compatibility ",
-              "description": "works on web, desktop, and mobile"
+              "description": "works on web and can target desktop and mobile if"
             },
             {
               "title": "Personal growth ",
